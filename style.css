@@ -1,0 +1,27 @@
+#grey{
+	background-color: #E5E5E5;
+}
+
+html{
+	line-height: 1.5;
+	color: black;
+	padding-top: 100px;
+}
+
+.last{
+	background-color: #E5E5E5;
+	padding-bottom: 15px;
+}
+
+a{
+	color: #0000DB;
+}
+
+.input{
+	background-color: #FEFFA2;
+}
+
+
+.i{
+	width:275px;
+}
